@@ -21,6 +21,7 @@ In this project, I will write 08 query in Bigquery base on Google Analytics data
 # Query 01: Calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month)
 - SQL code
 <img width="770" height="181" alt="Image" src="https://github.com/user-attachments/assets/73020b99-d796-4e93-9c4e-09cf4751c8bc" />
+
 - Query results
 <img width="792" height="135" alt="Image" src="https://github.com/user-attachments/assets/597d7389-d8a2-4372-be8c-8c3507f27a74" />
 
