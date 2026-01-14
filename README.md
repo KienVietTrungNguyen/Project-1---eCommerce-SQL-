@@ -39,8 +39,11 @@ March 2017 shows a significant improvement in all metrics ( visits, pageviews, a
 
 - Query results
 <img width="983" height="707" alt="Image" src="https://github.com/user-attachments/assets/fadc1699-ff44-4390-bbf0-6ec48e9dc778" />
+## Query 04: Average number of pageviews by purchaser type (purchasers vs non-purchasers) in June, July 2017
+- SQL code
+<img width="995" height="657" alt="image" src="https://github.com/user-attachments/assets/55345e6e-c0fe-450f-82b6-34b583e5d77e" />
 
-
+- Query results
     
 
 
