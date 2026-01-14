@@ -19,22 +19,10 @@ https://support.google.com/analytics/answer/3437719?hl=en
 # IV. Explore the Dataset
 In this project, I will write 08 query in Bigquery base on Google Analytics dataset
 # Query 01: Calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month)
-```sql
-SELECT 
-    FORMAT_DATE('%Y%m', PARSE_DATE('%Y%m%d', date)) AS month,
-    SUM(totals.visits) AS visits,
-    SUM(totals.pageviews) AS pageviews,
-    SUM(totals.transactions) AS transactions
-FROM `bigquery-public-data.google_analytics_sample.ga_sessions_2017*`
-WHERE _table_suffix BETWEEN '0101' AND '0331'
-GROUP BY month
-ORDER BY month;
-```
-| month  | visits | pageviews | transactions |
-|--------|--------|-----------|--------------|
-| 201701 | 64694  | 257708    | 713          |
-| 201702 | 62192  | 233373    | 733          |
-| 201703 | 69931  | 259522    | 993          |
+- SQL code
+<img width="770" height="181" alt="Image" src="https://github.com/user-attachments/assets/73020b99-d796-4e93-9c4e-09cf4751c8bc" />
+- Query results
+<img width="792" height="135" alt="Image" src="https://github.com/user-attachments/assets/597d7389-d8a2-4372-be8c-8c3507f27a74" />
 
 March 2017 shows a significant improvement in all metrics ( visits, pageviews, and transactions) compared to January and February
 ## Query 02: Bounce rate per traffic source in July 2017 (Bounce_rate = num_bounce/total_visit) (order by total_visit DESC)
