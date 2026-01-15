@@ -38,6 +38,7 @@ In this project, I will write 08 query in Bigquery base on Google Analytics data
 
 - Query results
 <img width="983" height="707" alt="Image" src="https://github.com/user-attachments/assets/fadc1699-ff44-4390-bbf0-6ec48e9dc778" />
+
 # Query 04: Average number of pageviews by purchaser type (purchasers vs non-purchasers) in June, July 2017
 
 - SQL code
