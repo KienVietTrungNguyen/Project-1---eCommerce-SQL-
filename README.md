@@ -39,24 +39,30 @@ In this project, I will write 08 query in Bigquery base on Google Analytics data
 - Query results
 <img width="983" height="707" alt="Image" src="https://github.com/user-attachments/assets/fadc1699-ff44-4390-bbf0-6ec48e9dc778" />
 # Query 04: Average number of pageviews by purchaser type (purchasers vs non-purchasers) in June, July 2017
+
 - SQL code
 <img width="995" height="657" alt="image" src="https://github.com/user-attachments/assets/55345e6e-c0fe-450f-82b6-34b583e5d77e" />
 
 - Query results
 <img width="778" height="102" alt="image" src="https://github.com/user-attachments/assets/e5189696-3632-4b3c-9158-50a2fcccfcfc" />
+
 # Query 05: Average number of transactions per user that made a purchase in July 2017
 - SQL code
 <img width="947" height="183" alt="image" src="https://github.com/user-attachments/assets/11fe034f-bfde-47a3-a565-e159f3a28bb1" />
 
 - Query results
 <img width="581" height="65" alt="image" src="https://github.com/user-attachments/assets/5fea76a8-de5b-486d-a564-adfc93fa0abd" />
+
 # Query 06: Average amount of money spent per session. Only include purchaser data in July 2017
+
 - SQL code
 <img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/f757443e-f8a6-4801-94e3-b57120e42b11" />
 
 - Query results
 <img width="591" height="70" alt="image" src="https://github.com/user-attachments/assets/27c56178-ee9e-43e2-823a-db0b4bfcd14a" />
+
 # Query 07: Other products purchased by customers who purchased product "YouTube Men's Vintage Henley" in July 2017. Output should show product name and the quantity was ordered.
+
 - SQL code
 <img width="776" height="520" alt="image" src="https://github.com/user-attachments/assets/ef51f3ea-fc7a-4ff3-ae1c-74b1e562ab98" />
 
