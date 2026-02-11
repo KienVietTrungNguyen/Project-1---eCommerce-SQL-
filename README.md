@@ -197,6 +197,7 @@ WITH customer AS
 <img width="485" height="708" alt="image" src="https://github.com/user-attachments/assets/3e6e2304-0a8f-4afa-a10d-8b0e6580ef4b" />
 
 ## Query 08: Calculate cohort map from product view to addtocart to purchase in Jan, Feb and March 2017. For example, 100% product view then 40% add_to_cart and 10% purchase.Add_to_cart_rate = number product  add to cart/number product view. Purchase_rate = number product purchase/number product view. The output should be calculated in product level.
+
 - SQL code
 Cách 1: 
 ```sql 
