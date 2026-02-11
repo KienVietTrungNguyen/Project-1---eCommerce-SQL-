@@ -192,7 +192,7 @@ WITH customer AS
         AND product.productRevenue IS NOT NULL
     GROUP BY other_purchased_products
     ORDER BY quantity DESC;
-    ```
+```
 - Query results
 <img width="485" height="708" alt="image" src="https://github.com/user-attachments/assets/3e6e2304-0a8f-4afa-a10d-8b0e6580ef4b" />
 
